@@ -14,8 +14,8 @@
   
   Tasks:
   
-  - Song Recommender (Marc)
-  - Evaluation (Ilai)
+  - Song_Recommender Notebook (Marc)
+  - Evaluation_Dataset Notebook (Ilai)
   - Presentation (Ilai)
   - Report (Ilai)
   - Background Research (Ilai)
