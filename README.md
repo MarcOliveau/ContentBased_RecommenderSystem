@@ -11,3 +11,11 @@
   Song_Recomemnder notebook displays most of the code, showing how the recommender class works and how evaluation is done.
   
   Evaluation_Dataset notebook displays how the evaluation dataset was processed by finding the intersecting songs, while retaining the playlist structure. 
+  
+  Tasks:
+  
+  - Song Recommender (Marc)
+  - Evaluation (Ilai)
+  - Presentation (Ilai)
+  - Report (Ilai)
+  - Background Research (Ilai)
