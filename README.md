@@ -4,6 +4,6 @@
  
   Two datasets are used, one for the lyrics word embeddings, and another to evaluate the performance of the model. The first dataset has 18000 songs, 11000 of them being unique and usable. The second dataset (spotify dataset) consists of 1 million playlists with 2 million unique songs. We extracted playlists that had atleast 10 intersecting songs with the first dataset. For each playlist, the song set was split 70/30, th the larger portion being the input for the recommender system and the small portion being the y_true value that is compared to the recommenmded songs of the input playlist. The evaluation metric we used was the average cosine similarity of a given model tested on 100 playlists. 
 
-  The word embedding techniques used were reduced tfidf, doc2vec and sbert. These three techniques vary in term of methodology and mathematical background. 
+  The word embedding techniques used were reduced tfidf, doc2vec and sbert. These three techniques vary in terms of methodology and mathematical background. 
 
-  Results indicate no significant difference on performance between these all word embedding models. 
+  Results indicate sbert performs best, compared to non significant average cosine similarities for reduced tf_idf and sbert.  
