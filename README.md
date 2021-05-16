@@ -8,6 +8,6 @@
 
   Results indicate sbert performs best, compared to non significant average cosine similarities for reduced tf_idf and sbert.  
   
-  
   Song_Recoomender notebook displays most of the code, showing how the recommender class works and how evaluation is done.
+  
   Evaluation notebook displays how the evaluation dataset was processed by finding the intersecting songs, while retaining the playlist structure. 
